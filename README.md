@@ -33,7 +33,11 @@ En la actualidad, la Cuenca del Plata cuenta con un total de aproximadamente 30 
 <li>Paraguay: Dirección de Meteorología e Hidrología.</li>
 </ul>
 
-Tanto Bolivia como Uruguay hoy no cuentan con radares. No obstante, en el caso de Uruguay se ha estado avanzando en un proceso licitatorio para la incorporación de dos radares meteorológicos a ser adquiridos e instalados durante 2025. Del mismo modo, en Argentina y en el marco de la finalización de la Etapa 3 del SINARAME (Sistema Nacional de Radares Meteorológicos), se sumarán cinco radares más dando una mayor cobertura a la cuenca como se muestra en la Figura 2
+Tanto Bolivia como Uruguay hoy no cuentan con radares. No obstante, en el caso de Uruguay se ha estado avanzando en un proceso licitatorio para la incorporación de dos radares meteorológicos a ser adquiridos e instalados durante 2025. Del mismo modo, en Argentina y en el marco de la finalización de la Etapa 3 del SINARAME (Sistema Nacional de Radares Meteorológicos), se sumarán cinco radares más dando una mayor cobertura a la cuenca.
+
+El siguiente mapa muestra la ubicación de los radares meteorológicos operativos que hoy cubren la Cuenca del Plata.
+
+<img src="images/red_radares_LPB_20250422.png" alt="Radar Meteorológico" width="600">
 
 </p>
 </section>
